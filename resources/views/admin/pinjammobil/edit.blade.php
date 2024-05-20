@@ -1,5 +1,5 @@
 @extends('template_backend.home')
-@section('heading', 'Edit Mapel')
+@section('heading', 'Edit Pinjam Mobil')
 @section('page')
   <li class="breadcrumb-item active"><a href="{{ route('mapel.index') }}">Mapel</a></li>
   <li class="breadcrumb-item active">Edit Mapel</li>
